@@ -1,0 +1,9 @@
+/**
+ * file: journal_karbytes_03february2025.txt
+ * type: plain-text
+ * date: 30_JANUARY_2025
+ * author: karbytes
+ * license: PUBLIC_DOMAIN
+ */
+
+karbytes: 'According to what I have studied, there is no distinction between mind and matter. Therefore, I could afford to make absurdist statements about reality without undermining my brand's reputation as a high quality philosophy structure (and process(?)). Some people have said that I am insecure. I would agree. Insecurity is the perception (and resulting discomfort) that one is lacking what it needs to adequately thrive by its own standards. I would posit that everyone is insecure given that no human is presumed to have omniscience (which includes absolute certainty about how all events unfold along their respective space-time continuums) unless the person claiming to have omniscience is not accounting for an unconditionally true tautology and condition of reality: the self-evident truth that the probability that any particular future outcome occurs according to a particular non-omniscient information processing agent's "frame of reference" is always larger than zero. Therefore, the future is not absolutely guaranteed to transpire as one might prefer and/or expect. (By "one" (in the context of this paragraph) I mean a unique and discrete instance of what I would classify as a "Sufficiently Sentient Information Processing Agent").'
