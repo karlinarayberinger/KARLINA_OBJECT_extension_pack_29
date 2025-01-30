@@ -1,0 +1,10 @@
+/**
+ * file: journal_karbytes_02february2025.txt
+ * type: plain-text
+ * date: 29_JANUARY_2025
+ * author: karbytes
+ * license: PUBLIC_DOMAIN
+ */
+
+
+karbytes: 'If I had a "personal religion" (or "ideology") by which I live (or by which I use as a "gold standard" to assign priority levels (to various "objects" which are competing for my (necessarily(?) limited(?)) attention span) (or "cognitive resources") to), I assume that "religion" would be what I call "egotism in parallel". By that I mean that every PERSON (i.e. indivisible unit-sized instance of the category of objects I would consider to be "sufficiently sentient information processing agents (abbreviated as SSIPA)") "should" be (and presumably "inevitably" is) always strive to maximize the degree to which it experiences satisfaction while also minimizing the degree to which that PERSON experiences what it deems to be "unnecessary suffering" (but such "should" always be the case for every PERSON who happens to share the same encompassing ecosystem and/or civilization). My (ethical and experiential) ideal is that no PERSON's egotism (i.e. maximization of that PERSON's own individual satisfaction and minimization of that PERSON's own individual suffering) comes at the cost of any other PERSON's egotism. What such a "utopian" ideal seems to require in order to be instantiated in material form is that the total number of PERSONs within a shared environment not exceed that environment's capacity to "adequately" enable each and every PERSON living inside of that environment to practice egotism as I "defined" it here in this paragraph.'
