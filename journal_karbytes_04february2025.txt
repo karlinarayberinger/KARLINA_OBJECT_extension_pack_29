@@ -1,3 +1,9 @@
-t
+/**
+ * file: journal_karbytes_04february2025.txt
+ * type: plain-text
+ * date: 31_JANUARY_2025
+ * author: karbytes
+ * license: PUBLIC_DOMAIN
+ */
 
 karbytes: 'Rather than being "antisocial", I consider myself to be "asocial". I define "antisocial" as being opposed to and/or detrimental to people interacting with each other (especially in a mutually beneficial and mutually consensual manner). I define "asocial" to be uninterested in (if not intentionally avoidant of) personally engaging in social interaction (especially as a human with other humans). As an "asocial" person, I tend to only interact with humans as minimally as necessary for me to survive (if not thrive). I believe that humans (unless "sufficiently" personally developed and mentally/emotionally/spiritually self-sufficient) are more parasitic to me than they are genuinely beneficial to my agenda (which is about (0) maximizing my realization of TRUTH through empirical investigation and logical analysis, (1) maximizing the degree of FREEDOM I have by which to allocate resources towards attaining my goals, and (2) maximizing the quality and frequency in which I engage in pursuits of INNOVATION (especially the creation, curation, and preservation of karbytes cyberspace-based artifacts (which are fundamentally reducible to source code files and media files (which are further reducible to particular linear sequences of binary digits)))). Regardless of whether or not I categorize any particular PERSON as either "sufficiently harmless (to my agenda)" or else "not sufficiently harmless (to my agenda)", I always strive to minimize the net suffering in existence (while generally prioritizing my own suffering minimization over all other instances of suffering minimization).'
