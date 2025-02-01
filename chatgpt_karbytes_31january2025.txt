@@ -12,7 +12,7 @@ The following is a plain-text transcript of a conversation between karbytes and 
 
 karbytes:
 
-Summarize the following  web article: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_29/main/journal_karbytes_04february2025.txt
+Summarize the following web article: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_29/main/journal_karbytes_04february2025.txt
 
 ChatGPT:
 
@@ -20,7 +20,7 @@ In the journal entry dated January 31, 2025, the author, karbytes, reflects on t
 
 karbytes:
 
-Summarize the following  web article: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_29/main/journal_karbytes_03february2025.txt
+Summarize the following web article: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_29/main/journal_karbytes_03february2025.txt
 
 ChatGPT:
 
@@ -28,7 +28,7 @@ In the journal entry dated January 30, 2025, karbytes discusses the concept of i
 
 karbytes:
 
-Summarize the following  web article: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_29/main/journal_karbytes_02february2025.txt
+Summarize the following web article: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_29/main/journal_karbytes_02february2025.txt
 
 ChatGPT:
 
@@ -36,7 +36,7 @@ In the journal entry dated January 29, 2025, karbytes articulates a personal ide
 
 karbytes:
 
-Summarize the following  web article: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_29/main/journal_karbytes_01february2025.txt
+Summarize the following web article: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_29/main/journal_karbytes_01february2025.txt
 
 ChatGPT:
 
