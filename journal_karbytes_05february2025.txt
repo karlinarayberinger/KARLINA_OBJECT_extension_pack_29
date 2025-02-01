@@ -1,0 +1,197 @@
+/**
+ * file: journal_karbytes_05february2025.txt
+ * type: plain-text
+ * date: 05_FEBRUARY_2025
+ * author: karbytes
+ * license: PUBLIC_DOMAIN
+ */
+
+On 01_FEBRUARY_2025, karbytes added a slightly modified version of SOUND_TRACK_LOOP_COUNTER_TWO to its .onion website(s).
+
+SOUND_TRACK_LOOP_COUNTER_THREE features a completely different, larger, and more eclectic collection of MP3 audio files than what SOUND_TRACK_LOOP_COUNTER_TWO features.
+
+Both of those (single web page) software applications use the same essential logic and enable the user to play one or multiple sound tracks simultaneously and for an indefinitely long time.
+
+The aforementioned two software applications are newer versions of the (single web page) software application named SOUND_TRACK_LOOP_COUNTER.
+
+All three of the aforementioned software applications do the following:
+
+(a) Select sound some natural number of MP3 sound file(s) to play.
+
+(b) Play the selected sound file(s) for an indefinitely long time period (until the user closes or refreshes the application web page or some other event causes the application to stop playing those sounds).
+
+(c) Display the total number of seconds elapsed and the total number of times each of the selected sound files is played (starting when the user clicks the start_sound_track_looper() button).
+
+* * *
+
+The following is a list of URLs which each point to exactly one unique (single web page) application which is currently (i.e. as of 01_FEBRUARY_2025 at 11:00AM Pacific Standard Time) being hosted on karbytes' .onion server.
+
+* * *
+
+Dark Web Page Application # 0
+
+SOUND_TRACK_LOOP_COUNTER_THREE
+
+http://qkbrwfubnh4knc6kkhx6uepccavpwezdf2al7w2quepe3qociegsi3yd.onion/KARBYTES_BLOG_APPS/SOUND_TRACK_LOOP_COUNTER_THREE/sound_track_looper_three.html
+
+* * *
+
+Dark Web Page Application # 1
+
+SOUND_TRACK_LOOP_COUNTER_TWO
+
+http://qkbrwfubnh4knc6kkhx6uepccavpwezdf2al7w2quepe3qociegsi3yd.onion/KARBYTES_BLOG_APPS/SOUND_TRACK_LOOP_COUNTER_TWO/sound_track_looper_two.html
+
+* * *
+
+Dark Web Page Application # 2
+
+TRIANGLE_GRAPHING_TWO
+
+http://qkbrwfubnh4knc6kkhx6uepccavpwezdf2al7w2quepe3qociegsi3yd.onion/KARBYTES_BLOG_APPS/TRIANGLE_GRAPHING_TWO/triangle_graphing_two.html
+
+* * *
+
+Dark Web Page Application # 3
+
+BEATS_MACHINE
+
+http://qkbrwfubnh4knc6kkhx6uepccavpwezdf2al7w2quepe3qociegsi3yd.onion/KARBYTES_BLOG_APPS/BEATS_MACHINE/beats_machine.html
+
+* * *
+
+Dark Web Page Application # 4
+
+ABRIDGED_KEYBOARD_MUSICAL_INSTRUMENT
+
+http://qkbrwfubnh4knc6kkhx6uepccavpwezdf2al7w2quepe3qociegsi3yd.onion/KARBYTES_BLOG_APPS/ABRIDGED_KEYBOARD_MUSICAL_INSTRUMENT/abridged_keyboard_musical_instrument.html
+
+* * *
+
+Dark Web Page Application # 5
+
+SOUND_TRACK_LOOP_COUNTER 
+
+http://qkbrwfubnh4knc6kkhx6uepccavpwezdf2al7w2quepe3qociegsi3yd.onion/KARLINA_OBJECT_APPS/SOUND_TRACK_LOOP_COUNTER/sound_track_looper.html
+
+* * *
+
+Dark Web Page Application # 6
+
+COUNT_DOWN_TIMER
+
+http://qkbrwfubnh4knc6kkhx6uepccavpwezdf2al7w2quepe3qociegsi3yd.onion/KARLINA_OBJECT_APPS/COUNT_DOWN_TIMER/count_down_timer.html
+
+* * *
+
+Dark Web Page Application # 7
+
+BITS_AND_BYTES
+
+http://qkbrwfubnh4knc6kkhx6uepccavpwezdf2al7w2quepe3qociegsi3yd.onion/KARLINA_OBJECT_APPS/BITS_AND_BYTES/binary_to_decimal.html
+
+* * *
+
+Dark Web Page Application # 8
+
+HEXIDECIMAL_COLOR_CODES
+
+http://qkbrwfubnh4knc6kkhx6uepccavpwezdf2al7w2quepe3qociegsi3yd.onion/KARLINA_OBJECT_APPS/HEXIDECIMAL_COLOR_CODES/hexidecimal_color_codes.html
+
+* * *
+
+Dark Web Page Application # 9
+
+BASE_CONVERTER
+
+http://qkbrwfubnh4knc6kkhx6uepccavpwezdf2al7w2quepe3qociegsi3yd.onion/KARLINA_OBJECT_APPS/BASE_CONVERTER/base_converter.html
+
+* * *
+
+Dark Web Page Application # 10
+
+TRIANGLE_GRAPHING
+
+http://qkbrwfubnh4knc6kkhx6uepccavpwezdf2al7w2quepe3qociegsi3yd.onion/KARLINA_OBJECT_APPS/TRIANGLE_GRAPHING/triangle_graphing.html
+
+* * *
+
+Dark Web Page Application # 11
+
+PI_APPROXIMATION
+
+http://qkbrwfubnh4knc6kkhx6uepccavpwezdf2al7w2quepe3qociegsi3yd.onion/KARLINA_OBJECT_APPS/PI_APPROXIMATION/pi_approximation.html
+
+* * *
+
+Dark Web Page Application # 12
+
+PROBABILITY
+
+http://qkbrwfubnh4knc6kkhx6uepccavpwezdf2al7w2quepe3qociegsi3yd.onion/KARLINA_OBJECT_APPS/PROBABILITY/probability.html
+
+* * *
+
+Dark Web Page Application # 13
+
+WORD_COUNTER
+
+http://qkbrwfubnh4knc6kkhx6uepccavpwezdf2al7w2quepe3qociegsi3yd.onion/KARLINA_OBJECT_APPS/WORD_COUNTER/word_counter.html 
+
+* * *
+
+Details about how each of the aforementioned dark web applications came to fruition are disclosed in the following two journal entries:
+
+prequel_journal_entry:
+
+https://karbytesforlifeblog.wordpress.com/journal_karbytes_29january2025/
+
+prequel_to_prequel_journal_entry:
+
+https://karbytesforlifeblog.wordpress.com/journal_karbytes_13january2025/
+
+* * *
+
+Additional Notes
+
+* * *
+
+The "micro directory" in which this journal entry is a part of serves as a better example of what I originally intended the following template "micro directory" to be: 
+
+https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_TEMPLATE_micro_directory/
+
+* * *
+
+The "micro directory" in which this journal entry is a part of is associated with the public GitHub repository named "KARLINA_OBJECT_extension_pack_29".
+
+* * *
+
+The aforementioned GitHub repository is located at the following web page address:
+
+https://github.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_29/
+
+* * *
+
+The "micro directory" which is associated with the aforementioned GitHub repository is located at the following web page address:
+
+https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_karlina_object_extension_pack_29/
+
+* * *
+
+A "micro directory" is a partition of the website named Karbytes For Life Blog dot WordPress dot Com which has the following characteristics.
+
+(a) It is referenced via hyperlink on the (one and only) "macro directory" web page of the aforementioned website.
+
+(b) It has (exactly one uniquely-corresponding) public GitHub repository on the GitHub account whose username is @karlinarayberinger.
+
+(c) It can be entirely reproduced out of the source code files and media files in its corresponding GitHub repository.
+
+(d) All of the "micro directories" in the aforementioned "macro directory" contain all the public source code files and public media files which constitute the following two websites:
+
+0. primary_website: Karlina Object dot WordPress dot Com
+
+https://karlinaobject.wordpress.com/
+
+1. secondary_website: Karbytes For Life Blog dot WordPress dot Com
+
+https://karbytesforlifeblog.wordpress.com/
