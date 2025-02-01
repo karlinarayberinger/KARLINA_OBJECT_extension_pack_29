@@ -1,7 +1,7 @@
 /**
  * file: journal_karbytes_05february2025.txt
  * type: plain-text
- * date: 05_FEBRUARY_2025
+ * date: 01_FEBRUARY_2025
  * author: karbytes
  * license: PUBLIC_DOMAIN
  */
